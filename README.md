@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Bruno Maia</h1>
-<h3 align="center">A learner backendeveloper from Brasil</h3>
+<h3 align="center">A learner backendeveloper from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomaia&label=Profile%20views&color=008000&style=flat-square" alt="brunomaia" /> </p>
 
